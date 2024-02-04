@@ -1,0 +1,17 @@
+import { useState } from 'react'
+import './App.css'
+import SomeComponent from './components/SomeComponent'
+
+
+function App() {
+  const [count, setCount] = useState(0)
+
+  return (
+    <>
+      <h3>main</h3>
+    <SomeComponent ></SomeComponent>
+    </>
+  )
+}
+
+export default App
