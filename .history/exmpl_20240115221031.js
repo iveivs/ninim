@@ -25,38 +25,3 @@ function App() {
 }
 
 export default App;
-// Стили для этого примера
-// * {
-//   margin: 0;
-//   padding: 0;
-//   box-sizing: border-box;
-// }
-// body {
-//   padding-top: 5rem;
-//   max-width: 1000px;
-//   margin: 0 auto;
-//   font-family: 'Roboto' , sans-serif;
-// }
-// ul {
-//   list-style: none;
-// }
-// li {
-//   padding: 1rem;
-//   cursor: pointer;
-//   border: 1px solid #ccc;
-//   border-radius: 10px;
-//   margin-bottom: 1rem;
-//   transition: all 0.3s;
-// }
-// li:hover {
-//   background-color: #eee;
-// }
-// li > .content {
-//   display: none;
-// }
-// li.active {
-//   background-color: rgb(210, 210, 106);
-// }
-// li.active > .content {
-//   display: block;
-// }

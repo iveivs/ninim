@@ -25,7 +25,7 @@ function App() {
 }
 
 export default App;
-// Стили для этого примера
+// 
 // * {
 //   margin: 0;
 //   padding: 0;
